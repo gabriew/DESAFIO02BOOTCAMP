@@ -1,6 +1,7 @@
-# DESAFIO02BOOTCAMP
+# DESAFIO 02 BOOTCAMP 
 
-Autenticação
+### Autenticação
+
 Permita que um usuário se autentique em sua aplicação utilizando e-mail e senha.
 
 A autenticação deve ser feita utilizando JWT.
